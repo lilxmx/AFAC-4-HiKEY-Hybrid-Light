@@ -16,8 +16,8 @@ Large datasets, generated outputs, caches, and credentials are intentionally exc
 ## Quick start
 
 ```bash
-git clone https://github.com/lilxmx/AFAC-4-public.git
-cd AFAC-4-public
+git clone https://github.com/lilxmx/AFAC-4-HiKEY-Hybrid-Light.git
+cd AFAC-4-HiKEY-Hybrid-Light
 python -m venv .venv
 source .venv/bin/activate
 pip install -r methods/m01_baseline_qwen/requirements.txt
