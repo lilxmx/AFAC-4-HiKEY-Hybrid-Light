@@ -1,0 +1,123 @@
+{
+  "doc_id": "annual_cscec_2025_report",
+  "source_pdf": "/mnt/data/annual_cscec_2025_report.pdf",
+  "title": "中国建筑股份有限公司2025年度报告",
+  "company": "中国建筑股份有限公司",
+  "year": 2025,
+  "page_count": 370,
+  "parser_version": "hikey-finance-v2.0",
+  "top_sections": [
+    "董事长致辞",
+    "年报速览",
+    "重要提示",
+    "第一节 释义",
+    "第二节 公司简介和主要财务指标",
+    "第三节 管理层讨论与分析",
+    "第四节 公司治理、环境和社会",
+    "第五节 重要事项",
+    "第六节 股份变动及股东情况",
+    "第七节 债券相关情况",
+    "第八节 财务报告",
+    "财务报告",
+    "目 录",
+    "审计报告"
+  ],
+  "toc_entries": [
+    {
+      "title": "董事长致辞",
+      "level": 1,
+      "page": 2,
+      "source_page": 3
+    },
+    {
+      "title": "年报速览",
+      "level": 1,
+      "page": 4,
+      "source_page": 3
+    },
+    {
+      "title": "重要提示",
+      "level": 1,
+      "page": 6,
+      "source_page": 3
+    },
+    {
+      "title": "第一节 释义",
+      "level": 1,
+      "page": 7,
+      "source_page": 3
+    },
+    {
+      "title": "第二节 公司简介和主要财务指标",
+      "level": 1,
+      "page": 8,
+      "source_page": 3
+    },
+    {
+      "title": "第三节 管理层讨论与分析",
+      "level": 1,
+      "page": 12,
+      "source_page": 3
+    },
+    {
+      "title": "第四节 公司治理、环境和社会",
+      "level": 1,
+      "page": 64,
+      "source_page": 3
+    },
+    {
+      "title": "第五节 重要事项",
+      "level": 1,
+      "page": 90,
+      "source_page": 3
+    },
+    {
+      "title": "第六节 股份变动及股东情况",
+      "level": 1,
+      "page": 108,
+      "source_page": 3
+    },
+    {
+      "title": "第七节 债券相关情况",
+      "level": 1,
+      "page": 118,
+      "source_page": 3
+    },
+    {
+      "title": "第八节 财务报告",
+      "level": 1,
+      "page": 132,
+      "source_page": 3
+    },
+    {
+      "title": "目录",
+      "level": 1,
+      "page": null,
+      "source_page": 3
+    },
+    {
+      "title": "董事长致辞",
+      "level": 1,
+      "page": null,
+      "source_page": 6
+    },
+    {
+      "title": "年报速览",
+      "level": 1,
+      "page": 5,
+      "source_page": 9
+    },
+    {
+      "title": "重要提示",
+      "level": 1,
+      "page": null,
+      "source_page": 10
+    },
+    {
+      "title": "十一、 其他",
+      "level": 2,
+      "page": null,
+      "source_page": 10
+    }
+  ]
+}

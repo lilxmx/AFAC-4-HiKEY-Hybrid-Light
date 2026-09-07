@@ -1,0 +1,102 @@
+{
+  "fc_a_001": {
+    "answer": "ABD",
+    "source": "gpt_pro",
+    "raw_file": "1"
+  },
+  "fc_a_002": {
+    "answer": "ABD",
+    "source": "gpt_pro",
+    "raw_file": "2"
+  },
+  "fc_a_003": {
+    "answer": "A",
+    "source": "gpt_pro",
+    "raw_file": "3"
+  },
+  "fc_a_004": {
+    "answer": "AC",
+    "source": "gpt_pro",
+    "raw_file": "4"
+  },
+  "fc_a_005": {
+    "answer": "ABCD",
+    "source": "gpt_pro",
+    "raw_file": "5"
+  },
+  "fc_a_006": {
+    "answer": "A",
+    "source": "gpt_pro",
+    "raw_file": "6"
+  },
+  "fc_a_007": {
+    "answer": "BD",
+    "source": "gpt_pro",
+    "raw_file": "7"
+  },
+  "fc_a_008": {
+    "answer": "B",
+    "source": "gpt_pro",
+    "raw_file": "8"
+  },
+  "fc_a_009": {
+    "answer": "ABD",
+    "source": "gpt_pro",
+    "raw_file": "9"
+  },
+  "fc_a_010": {
+    "answer": "A",
+    "source": "gpt_pro",
+    "raw_file": "10"
+  },
+  "fc_a_011": {
+    "answer": "AB",
+    "source": "gpt_pro",
+    "raw_file": "11"
+  },
+  "fc_a_012": {
+    "answer": "ACD",
+    "source": "gpt_pro",
+    "raw_file": "12"
+  },
+  "fc_a_013": {
+    "answer": "A",
+    "source": "gpt_pro",
+    "raw_file": "13"
+  },
+  "fc_a_014": {
+    "answer": "B",
+    "source": "gpt_pro",
+    "raw_file": "14"
+  },
+  "fc_a_015": {
+    "answer": "AB",
+    "source": "gpt_pro",
+    "raw_file": "15"
+  },
+  "fc_a_016": {
+    "answer": "ABC",
+    "source": "gpt_pro",
+    "raw_file": "16"
+  },
+  "fc_a_017": {
+    "answer": "ABD",
+    "source": "gpt_pro",
+    "raw_file": "17"
+  },
+  "fc_a_018": {
+    "answer": "A",
+    "source": "gpt_pro",
+    "raw_file": "18"
+  },
+  "fc_a_019": {
+    "answer": "AB",
+    "source": "gpt_pro",
+    "raw_file": "19"
+  },
+  "fc_a_020": {
+    "answer": "ABD",
+    "source": "gpt_pro",
+    "raw_file": "20"
+  }
+}

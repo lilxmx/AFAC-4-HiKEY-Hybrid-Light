@@ -1,0 +1,83 @@
+# ============================================================
+# AFAC-4 .gitignore (Framework v2.0)
+# ============================================================
+
+# ------ Run outputs (all runs are ephemeral, not tracked) ------
+runs/
+
+# ------ Cache (large precomputed artifacts) ------
+cache/
+
+# ------ Archive (old code/results, not tracked) ------
+archive/
+
+# ------ Dataset (large files, shared externally) ------
+public_dataset_upload/
+public_dataset_a.zip
+data/raw/
+
+# ------ Reference raw files (keep parsed.json, skip raw markdown) ------
+references/*/raw/
+
+# ------ Python ------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ------ Virtual environments ------
+venv/
+.venv/
+env/
+ENV/
+.env
+.env.*
+!.env.example
+
+# ------ Index and model files ------
+*.pkl
+*.npy
+*.npz
+*.h5
+*.hdf5
+*.bin
+
+# ------ Logs ------
+*.log
+*.pid
+
+# ------ IDE ------
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# ------ OS ------
+.DS_Store
+Thumbs.db
+
+# ------ Misc ------
+*.zip
+*.tar.gz
+*.rar
+
+# ============================================================
+# KEEP: references/*/parsed.json (structured reference answers)
+# KEEP: methods/ (all algorithm code)
+# ============================================================
+
+# ------ Shared cache (large precomputed text) ------
+# methods/_shared/_cache/
+# methods/_shared/_HiKEY_cache/
+
+# ------ Method run logs ------
+methods/*/logs/
+
+public_dataset_upload/
+
+papers/

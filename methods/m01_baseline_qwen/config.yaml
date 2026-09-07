@@ -1,0 +1,31 @@
+# m01_baseline_qwen - Configuration
+# Author: lgr
+# Description: Qwen-plus + BM25 retrieval baseline
+
+model:
+  llm: qwen-plus
+  embedding: none  # BM25 only, no embedding
+  base_url: https://dashscope.aliyuncs.com/compatible-mode/v1
+  max_output_tokens: 512
+  temperature: 0.1
+
+retrieval:
+  method: bm25
+  chunk_size: 800
+  chunk_overlap: 100
+  top_k: 5
+  max_evidence_chars: 3000
+
+pipeline:
+  concurrency: 5
+  domains:
+    - insurance
+    - regulatory
+    - financial_contracts
+    - financial_reports
+    - research
+
+paths:
+  cache_dir: ${PROJECT_ROOT}/cache
+  bm25_index_dir: ${PROJECT_ROOT}/cache/bm25_index
+  data_dir: ${PROJECT_ROOT}/data

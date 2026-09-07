@@ -1,0 +1,37 @@
+# m02_gpt41_golden - Configuration
+# Author: lgr
+# Description: GPT-4.1 + Hybrid retrieval (BM25 + embedding) + voting + evidence sufficiency
+# Purpose: Generate golden labels (high accuracy, high token cost)
+
+model:
+  llm: gpt-4.1
+  embedding: text-embedding-3-large
+  base_url: https://api.openai.com/v1
+  max_output_tokens: 4096
+  temperature: 0.3
+
+retrieval:
+  method: hybrid  # BM25 + dense embedding
+  chunk_size: 800
+  chunk_overlap: 100
+  bm25_top_k: 10
+  embedding_top_k: 10
+  rerank_top_k: 5
+  max_evidence_chars: 6000
+
+pipeline:
+  concurrency: 3
+  voting_rounds: 5
+  evidence_sufficiency_check: true
+  domains:
+    - insurance
+    - regulatory
+    - financial_contracts
+    - financial_reports
+    - research
+
+paths:
+  cache_dir: ${PROJECT_ROOT}/cache
+  bm25_index_dir: ${PROJECT_ROOT}/cache/bm25_index
+  embeddings_dir: ${PROJECT_ROOT}/cache/embeddings
+  data_dir: ${PROJECT_ROOT}/data

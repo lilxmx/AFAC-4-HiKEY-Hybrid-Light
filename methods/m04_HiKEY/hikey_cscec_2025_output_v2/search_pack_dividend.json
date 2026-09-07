@@ -1,0 +1,595 @@
+{
+  "query": "中国建筑2025年每10股派发现金红利是多少",
+  "query_plan": {
+    "query": "中国建筑2025年每10股派发现金红利是多少",
+    "companies": [
+      "中国建筑股份有限公司"
+    ],
+    "years": [
+      2025
+    ],
+    "metrics": [
+      "现金红利"
+    ],
+    "operations": [],
+    "answer_format": null
+  },
+  "evidence_pack": [
+    {
+      "anchor": {
+        "unit_id": "annual_cscec_2025_report_field_001503",
+        "doc_id": "annual_cscec_2025_report",
+        "section_id": "annual_cscec_2025_report_sec_0190",
+        "section_path": "第四节 公司治理、环境和社会 > ( 六) 最近三个会计年度现金分红情况",
+        "page": 88,
+        "unit_type": "financial_field",
+        "text": "每股派息（元）；派息比例；中国建筑股份有限公司；84",
+        "bbox": null,
+        "table_name": "最近三个会计年度现金分红情况",
+        "row_header": "现金红利",
+        "col_headers": null,
+        "values": null,
+        "unit": "千元",
+        "metadata": {
+          "source": "line_heuristic",
+          "line_index": 113,
+          "raw_metric": "派息",
+          "canonical_metric": "现金红利"
+        },
+        "object_type": "unit",
+        "score": 197.5207,
+        "query_plan": {
+          "query": "中国建筑2025年每10股派发现金红利是多少",
+          "companies": [
+            "中国建筑股份有限公司"
+          ],
+          "years": [
+            2025
+          ],
+          "metrics": [
+            "现金红利"
+          ],
+          "operations": [],
+          "answer_format": null
+        }
+      },
+      "ancestry": {
+        "section_id": "annual_cscec_2025_report_sec_0190",
+        "section_path": "第四节 公司治理、环境和社会 > ( 六) 最近三个会计年度现金分红情况",
+        "start_page": 88,
+        "end_page": 89,
+        "title": "( 六) 最近三个会计年度现金分红情况"
+      },
+      "siblings": [
+        {
+          "unit_id": "annual_cscec_2025_report_heading_000414",
+          "doc_id": "annual_cscec_2025_report",
+          "section_id": "annual_cscec_2025_report_sec_0190",
+          "section_path": "第四节 公司治理、环境和社会 > ( 六) 最近三个会计年度现金分红情况",
+          "page": 88,
+          "unit_type": "heading",
+          "text": "( 六) 最近三个会计年度现金分红情况",
+          "bbox": [
+            56.692901611328125,
+            358.14984130859375,
+            252.70089721679688,
+            392.3978271484375
+          ],
+          "table_name": null,
+          "row_header": null,
+          "col_headers": null,
+          "values": null,
+          "unit": null,
+          "metadata": {}
+        },
+        {
+          "unit_id": "annual_cscec_2025_report_text_000415",
+          "doc_id": "annual_cscec_2025_report",
+          "section_id": "annual_cscec_2025_report_sec_0190",
+          "section_path": "第四节 公司治理、环境和社会 > ( 六) 最近三个会计年度现金分红情况",
+          "page": 88,
+          "unit_type": "text_block",
+          "text": "适用 不适用\n单位：千元 币种：人民币\n最近三个会计年度累计现金分红金额（含税）(1)\n33,747,104\n最近三个会计年度累计回购并注销金额(2)\n最近三个会计年度现金分红和回购并注销累计金额(3)=(1)+(2)\n33,747,104\n最近三个会计年度年均净利润金额(4)\n46,506,758\n最近三个会计年度现金分红比例（%）(5)=(3)/(4)\n72.56\n最近一个会计年度合并报表中归属于上市公司普通股股东的净利润\n39,069,002\n最近一个会计年度母公司报表年度末未分配利润\n55,768,900\n上市至今现金分红情况\n28.75%\n24.29%\n23.00%\n23.00%\n21.59%\n20.82%\n21.00%\n20.80%\n20.40%\n20.05%\n20.00%\n20.00%\n19.57%\n18.53%\n18.44%\n18.00%\n15.00%\n1.31\n1.25\n1.23\n1.11\n1.07\n0.97\n0.94\n0.96\n0.87\n0.84\n0.76\n0.75\n0.68\n0.52\n0.45\n0.2718\n0.31\n0.27145\n0.2715\n0.25\n0.2527\n0.215\n0.215\n0.2147\n0.2\n0.19\n0.185\n0.172\n0.168\n0.143\n0.105\n0.08\n0.062\n0.029\n基本每股收益（元/ 股）\n每股派息（元）\n派息比例\n中国建筑股份有限公司",
+          "bbox": [
+            57.7598991394043,
+            383.4432373046875,
+            538.1751708984375,
+            787.2431640625
+          ],
+          "table_name": null,
+          "row_header": null,
+          "col_headers": null,
+          "values": null,
+          "unit": null,
+          "metadata": {}
+        },
+        {
+          "unit_id": "annual_cscec_2025_report_heading_000416",
+          "doc_id": "annual_cscec_2025_report",
+          "section_id": "annual_cscec_2025_report_sec_0190",
+          "section_path": "第四节 公司治理、环境和社会 > ( 六) 最近三个会计年度现金分红情况",
+          "page": 89,
+          "unit_type": "heading",
+          "text": "第四节 公司治理、环境和社会",
+          "bbox": [
+            426.58270263671875,
+            24.677047729492188,
+            538.5827026367188,
+            47.541046142578125
+          ],
+          "table_name": null,
+          "row_header": null,
+          "col_headers": null,
+          "values": null,
+          "unit": null,
+          "metadata": {}
+        },
+        {
+          "unit_id": "annual_cscec_2025_report_field_001497",
+          "doc_id": "annual_cscec_2025_report",
+          "section_id": "annual_cscec_2025_report_sec_0190",
+          "section_path": "第四节 公司治理、环境和社会 > ( 六) 最近三个会计年度现金分红情况",
+          "page": 88,
+          "unit_type": "financial_field",
+          "text": "( 五) 本报告期利润分配及资本公积金转增股本预案；适用 不适用；单位：千元 币种：人民币；每10股送红股数（股）；╱；每10股派息数（元）；（含税）；2.718；每10股转增数（股）；╱",
+          "bbox": null,
+          "table_name": "最近三个会计年度现金分红情况",
+          "row_header": "资本公积金转增股本",
+          "col_headers": null,
+          "values": null,
+          "unit": "千元",
+          "metadata": {
+            "source": "line_heuristic",
+            "line_index": 4,
+            "raw_metric": "资本公积金转增股本",
+            "canonical_metric": "资本公积金转增股本"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": {
+        "unit_id": "annual_cscec_2025_report_field_001491",
+        "doc_id": "annual_cscec_2025_report",
+        "section_id": "annual_cscec_2025_report_sec_0185",
+        "section_path": "第四节 公司治理、环境和社会 > 4. 公司本年度拟分配的现金红利相关情况说明",
+        "page": 86,
+        "unit_type": "financial_field",
+        "text": "润为557.69亿元,上市公司拟向全体股东每10股派发现金红利2.718元（含税）。以截至本报告披露日的；总股本41,320,390,444股为基数,以此计算合计拟派发现金红利约112.31亿元（含税）。本年度公司现；金分红占合并报表归属于母公司股东净利润的比例为28.75%。如在实施权益分派股权登记日前公司总股；上述利润分配预案已经公司第四届董事会第三十三次会议审议通过,预案尚需经公司2025年年度股东会；审议批准。公司2025年年度股东会拟采取现场记名投票与网络投票相结合的方式,从而确保中小股东有",
+        "bbox": null,
+        "table_name": "公司本年度拟分配的现金红利相关情况",
+        "row_header": "现金红利",
+        "col_headers": null,
+        "values": null,
+        "unit": null,
+        "metadata": {
+          "source": "line_heuristic",
+          "line_index": 6,
+          "raw_metric": "每10股派",
+          "canonical_metric": "现金红利"
+        },
+        "object_type": "unit",
+        "score": 189.701,
+        "query_plan": {
+          "query": "中国建筑2025年每10股派发现金红利是多少",
+          "companies": [
+            "中国建筑股份有限公司"
+          ],
+          "years": [
+            2025
+          ],
+          "metrics": [
+            "现金红利"
+          ],
+          "operations": [],
+          "answer_format": null
+        }
+      },
+      "ancestry": {
+        "section_id": "annual_cscec_2025_report_sec_0185",
+        "section_path": "第四节 公司治理、环境和社会 > 4. 公司本年度拟分配的现金红利相关情况说明",
+        "start_page": 86,
+        "end_page": 87,
+        "title": "4. 公司本年度拟分配的现金红利相关情况说明"
+      },
+      "siblings": [
+        {
+          "unit_id": "annual_cscec_2025_report_heading_000401",
+          "doc_id": "annual_cscec_2025_report",
+          "section_id": "annual_cscec_2025_report_sec_0185",
+          "section_path": "第四节 公司治理、环境和社会 > 4. 公司本年度拟分配的现金红利相关情况说明",
+          "page": 86,
+          "unit_type": "heading",
+          "text": "4. 公司本年度拟分配的现金红利相关情况说明",
+          "bbox": [
+            56.71289825439453,
+            325.13189697265625,
+            270.9328918457031,
+            353.6518859863281
+          ],
+          "table_name": null,
+          "row_header": null,
+          "col_headers": null,
+          "values": null,
+          "unit": null,
+          "metadata": {}
+        },
+        {
+          "unit_id": "annual_cscec_2025_report_heading_000403",
+          "doc_id": "annual_cscec_2025_report",
+          "section_id": "annual_cscec_2025_report_sec_0185",
+          "section_path": "第四节 公司治理、环境和社会 > 4. 公司本年度拟分配的现金红利相关情况说明",
+          "page": 87,
+          "unit_type": "heading",
+          "text": "第四节 公司治理、环境和社会",
+          "bbox": [
+            426.58270263671875,
+            24.677047729492188,
+            538.5827026367188,
+            47.541046142578125
+          ],
+          "table_name": null,
+          "row_header": null,
+          "col_headers": null,
+          "values": null,
+          "unit": null,
+          "metadata": {}
+        },
+        {
+          "unit_id": "annual_cscec_2025_report_text_000404",
+          "doc_id": "annual_cscec_2025_report",
+          "section_id": "annual_cscec_2025_report_sec_0185",
+          "section_path": "第四节 公司治理、环境和社会 > 4. 公司本年度拟分配的现金红利相关情况说明",
+          "page": 87,
+          "unit_type": "text_block",
+          "text": "（5）公司留存未分配利润的确切用途以及预计收益情况\n留存未分配利润将重点用于抢抓战略发展机遇,持续深化公司规划实施,加大结构调整与转型升级力\n度,加快培育新的效益增长点。中国建筑长期保持稳定、连续的分红政策,充分体现了公司稳健经营和\n持续回报股东的能力。展望未来,公司将紧密围绕国家重大战略部署及“十五五”战略规划,抢抓当前经\n济发展的重要战略机遇期,不断夯实发展基础,提升综合竞争力,更好地回馈广大股东的信任与支持。\n（6）公司为中小股东参与现金分红决策提供便利情况\n公司建立健全了多渠道的投资者沟通机制,中小股东可通过投资者热线、公司投资者关系邮箱、上证e\n互动平台提问等多种方式来表达对现金分红政策的意见和诉求。在公司年度股东会上,中小股东可通过\n网络投票方式对利润分配方案进行表决。同时公司还积极通过现金分红说明会等形式,及时解答中小股\n东关心的问题。\n（7）公司为增强投资者回报水平拟采取的措施\n公司按照《上市公司监管指引第3号―― 上市公司现金分红》等法律法规、规范性文件和《公司章程》的规\n定,增加利润分配决策透明度和可操作性,便于股东对公司经营和利润分配进行监督。公司将继续秉承\n为投资者带来长期持续回报的经营理念,结合当前宏观经济形势以及重大资金支出安排等因素,继续优\n化利润分配方案,增厚投资者回报。\n本次利润分配预案符合有关法律、法规和《公司章程》的规定,利润分配程序合规、透明。中国建筑一直\n保持稳定的分红政策,本年度每股现金分红保持稳定,体现了中国建筑稳健发展和持续分红的能力,展\n示了中国建筑秉持以投资者为本的理念、以优异经营业绩回报股东的决心。",
+          "bbox": [
+            65.8560791015625,
+            95.60194396972656,
+            538.6519775390625,
+            452.8519287109375
+          ],
+          "table_name": null,
+          "row_header": null,
+          "col_headers": null,
+          "values": null,
+          "unit": null,
+          "metadata": {}
+        },
+        {
+          "unit_id": "annual_cscec_2025_report_field_001492",
+          "doc_id": "annual_cscec_2025_report",
+          "section_id": "annual_cscec_2025_report_sec_0185",
+          "section_path": "第四节 公司治理、环境和社会 > 4. 公司本年度拟分配的现金红利相关情况说明",
+          "page": 86,
+          "unit_type": "financial_field",
+          "text": "4. 公司本年度拟分配的现金红利相关情况说明；（1）公司所处行业情况及特点；建筑行业增加值占GDP比例长期保持在6%以上,是国民经济的支柱产业,行业发展根基总体稳固。近；（2）公司发展阶段和自身经营模式",
+          "bbox": null,
+          "table_name": "公司本年度拟分配的现金红利相关情况",
+          "row_header": "现金红利",
+          "col_headers": null,
+          "values": null,
+          "unit": null,
+          "metadata": {
+            "source": "line_heuristic",
+            "line_index": 13,
+            "raw_metric": "现金红利",
+            "canonical_metric": "现金红利"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": {
+        "unit_id": "annual_cscec_2025_report_field_001385",
+        "doc_id": "annual_cscec_2025_report",
+        "section_id": "annual_cscec_2025_report_sec_0014",
+        "section_path": "重要提示 > 十一、 其他",
+        "page": 10,
+        "unit_type": "financial_field",
+        "text": "董事会决议通过的本报告期利润分配预案和资本公积金转增股本预案；公司拟向全体普通股股东每10股派送现金红利人民币2.718元（含税）,以截至本报告披露日的总；股本41,320,390,444股为基数,以此计算合计拟派发现金红利总额约为112.31亿元（含税）。本年；度公司现金分红占合并报表归属于上市公司股东净利润的比例为28.75%。如在实施权益分派股权",
+        "bbox": null,
+        "table_name": "十一、 其他",
+        "row_header": "资本公积金转增股本",
+        "col_headers": null,
+        "values": null,
+        "unit": null,
+        "metadata": {
+          "source": "line_heuristic",
+          "line_index": 13,
+          "raw_metric": "资本公积金转增股本",
+          "canonical_metric": "资本公积金转增股本"
+        },
+        "object_type": "unit",
+        "score": 167.5529,
+        "query_plan": {
+          "query": "中国建筑2025年每10股派发现金红利是多少",
+          "companies": [
+            "中国建筑股份有限公司"
+          ],
+          "years": [
+            2025
+          ],
+          "metrics": [
+            "现金红利"
+          ],
+          "operations": [],
+          "answer_format": null
+        }
+      },
+      "ancestry": {
+        "section_id": "annual_cscec_2025_report_sec_0014",
+        "section_path": "重要提示 > 十一、 其他",
+        "start_page": 10,
+        "end_page": 10,
+        "title": "十一、 其他"
+      },
+      "siblings": [
+        {
+          "unit_id": "annual_cscec_2025_report_field_001386",
+          "doc_id": "annual_cscec_2025_report",
+          "section_id": "annual_cscec_2025_report_sec_0014",
+          "section_path": "重要提示 > 十一、 其他",
+          "page": 10,
+          "unit_type": "financial_field",
+          "text": "度公司现金分红占合并报表归属于上市公司股东净利润的比例为28.75%。如在实施权益分派股权；提交公司2025年年度股东会审议批准。；适用 不适用；六、；前瞻性陈述的风险声明；适用 不适用",
+          "bbox": null,
+          "table_name": "十一、 其他",
+          "row_header": "现金红利",
+          "col_headers": null,
+          "values": null,
+          "unit": null,
+          "metadata": {
+            "source": "line_heuristic",
+            "line_index": 16,
+            "raw_metric": "现金分红",
+            "canonical_metric": "现金红利"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": {
+        "unit_id": "annual_cscec_2025_report_field_001398",
+        "doc_id": "annual_cscec_2025_report",
+        "section_id": "annual_cscec_2025_report_sec_0026",
+        "section_path": "第二节 公司简介和主要财务指标 > 七、 近三年主要会计数据和财务指标 > （二） 主要财务指标",
+        "page": 13,
+        "unit_type": "financial_field",
+        "text": "每10股派息金额（元）；2.718；2.715；2.715；0.1；2.7145；适用 不适用；中扣减。",
+        "bbox": null,
+        "table_name": "主要财务指标",
+        "row_header": "现金红利",
+        "col_headers": null,
+        "values": null,
+        "unit": "千元",
+        "metadata": {
+          "source": "line_heuristic",
+          "line_index": 126,
+          "raw_metric": "每10股派",
+          "canonical_metric": "现金红利"
+        },
+        "object_type": "unit",
+        "score": 158.903,
+        "query_plan": {
+          "query": "中国建筑2025年每10股派发现金红利是多少",
+          "companies": [
+            "中国建筑股份有限公司"
+          ],
+          "years": [
+            2025
+          ],
+          "metrics": [
+            "现金红利"
+          ],
+          "operations": [],
+          "answer_format": null
+        }
+      },
+      "ancestry": {
+        "section_id": "annual_cscec_2025_report_sec_0026",
+        "section_path": "第二节 公司简介和主要财务指标 > 七、 近三年主要会计数据和财务指标 > （二） 主要财务指标",
+        "start_page": 13,
+        "end_page": 13,
+        "title": "（二） 主要财务指标"
+      },
+      "siblings": [
+        {
+          "unit_id": "annual_cscec_2025_report_heading_000030",
+          "doc_id": "annual_cscec_2025_report",
+          "section_id": "annual_cscec_2025_report_sec_0026",
+          "section_path": "第二节 公司简介和主要财务指标 > 七、 近三年主要会计数据和财务指标 > （二） 主要财务指标",
+          "page": 13,
+          "unit_type": "heading",
+          "text": "（二） 主要财务指标",
+          "bbox": [
+            65.29820251464844,
+            413.5725402832031,
+            170.20220947265625,
+            447.8205261230469
+          ],
+          "table_name": null,
+          "row_header": null,
+          "col_headers": null,
+          "values": null,
+          "unit": null,
+          "metadata": {}
+        },
+        {
+          "unit_id": "annual_cscec_2025_report_text_000031",
+          "doc_id": "annual_cscec_2025_report",
+          "section_id": "annual_cscec_2025_report_sec_0026",
+          "section_path": "第二节 公司简介和主要财务指标 > 七、 近三年主要会计数据和财务指标 > （二） 主要财务指标",
+          "page": 13,
+          "unit_type": "text_block",
+          "text": "2024年\n本期比上年\n主要财务指标\n2025年\n2023年\n同期增减(%)\n调整后\n调整前\n基本每股收益（元／股）\n0.94\n1.11\n1.11\n-15.3\n1.31\n稀释每股收益（元／股）\n0.94\n1.11\n1.11\n-15.3\n1.31\n扣除非经常性损益后的基本每股收益\n（元／股）\n0.77\n1.00\n1.00\n-23.0\n1.17\n减少2.21个\n加权平均净资产收益率（%）\n百分点\n8.15\n10.36\n10.37\n13.36\n扣除非经常性损益后的加权平均净资产\n减少2.68个\n收益率（%）\n百分点\n6.65\n9.33\n9.33\n11.94\n归属普通股股东的每股净资产（元／股）\n11.68\n10.90\n10.89\n7.2\n9.98\n每10股派息金额（元）\n2.718\n2.715\n2.715\n0.1\n2.7145\n报告期末公司前三年主要会计数据和财务指标的说明\n适用 不适用\n① 计算每股收益时,将尚未达到解锁条件及失效的限制性股票从本公司发行在外普通股的加权平均数\n中扣减。\n② 按照相关会计准则规定,计算每股收益时,归属于上市公司股东的净利润将扣除优先股、永续债等\n其他权益工具的股利或利息及限制性股票的影响。\n2025 年年度报告",
+          "bbox": [
+            70.86609649658203,
+            436.95611572265625,
+            538.4732055664062,
+            787.408447265625
+          ],
+          "table_name": null,
+          "row_header": null,
+          "col_headers": null,
+          "values": null,
+          "unit": null,
+          "metadata": {}
+        },
+        {
+          "unit_id": "annual_cscec_2025_report_field_001387",
+          "doc_id": "annual_cscec_2025_report",
+          "section_id": "annual_cscec_2025_report_sec_0026",
+          "section_path": "第二节 公司简介和主要财务指标 > 七、 近三年主要会计数据和财务指标 > （二） 主要财务指标",
+          "page": 13,
+          "unit_type": "financial_field",
+          "text": "营业收入；2,082,141,811；2,187,334,286；2,187,147,839；-4.8；2,265,529,244",
+          "bbox": null,
+          "table_name": "主要财务指标",
+          "row_header": "营业收入",
+          "col_headers": null,
+          "values": null,
+          "unit": "千元",
+          "metadata": {
+            "source": "line_heuristic",
+            "line_index": 21,
+            "raw_metric": "营业收入",
+            "canonical_metric": "营业收入"
+          }
+        },
+        {
+          "unit_id": "annual_cscec_2025_report_field_001388",
+          "doc_id": "annual_cscec_2025_report",
+          "section_id": "annual_cscec_2025_report_sec_0026",
+          "section_path": "第二节 公司简介和主要财务指标 > 七、 近三年主要会计数据和财务指标 > （二） 主要财务指标",
+          "page": 13,
+          "unit_type": "financial_field",
+          "text": "利润总额；70,221,649；80,046,319；80,036,950；-12.3；92,995,473",
+          "bbox": null,
+          "table_name": "主要财务指标",
+          "row_header": "利润总额",
+          "col_headers": null,
+          "values": null,
+          "unit": "千元",
+          "metadata": {
+            "source": "line_heuristic",
+            "line_index": 27,
+            "raw_metric": "利润总额",
+            "canonical_metric": "利润总额"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": {
+        "unit_id": "annual_cscec_2025_report_field_001809",
+        "doc_id": "annual_cscec_2025_report",
+        "section_id": "annual_cscec_2025_report_sec_0394",
+        "section_path": "审计报告 > 十四、资产负债表日后事项 > 2.根据2026年4月17日董事会决议,董事会提议本公司以截至本财务报表批准",
+        "page": 345,
+        "unit_type": "financial_field",
+        "text": "报出日41,320,390,444股为基数,向全体普通股股东每10股派送2.718元（含；税）现金股息,合计约112.31亿元,在实施权益分派的股权登记日前公司总；报表中确认。；207",
+        "bbox": null,
+        "table_name": "董事会提议本公司以截至本财务报表",
+        "row_header": "现金红利",
+        "col_headers": null,
+        "values": null,
+        "unit": null,
+        "metadata": {
+          "source": "line_heuristic",
+          "line_index": 141,
+          "raw_metric": "每10股派",
+          "canonical_metric": "现金红利"
+        },
+        "object_type": "unit",
+        "score": 151.187,
+        "query_plan": {
+          "query": "中国建筑2025年每10股派发现金红利是多少",
+          "companies": [
+            "中国建筑股份有限公司"
+          ],
+          "years": [
+            2025
+          ],
+          "metrics": [
+            "现金红利"
+          ],
+          "operations": [],
+          "answer_format": null
+        }
+      },
+      "ancestry": {
+        "section_id": "annual_cscec_2025_report_sec_0394",
+        "section_path": "审计报告 > 十四、资产负债表日后事项 > 2.根据2026年4月17日董事会决议,董事会提议本公司以截至本财务报表批准",
+        "start_page": 345,
+        "end_page": 345,
+        "title": "2.根据2026年4月17日董事会决议,董事会提议本公司以截至本财务报表批准"
+      },
+      "siblings": [
+        {
+          "unit_id": "annual_cscec_2025_report_heading_001313",
+          "doc_id": "annual_cscec_2025_report",
+          "section_id": "annual_cscec_2025_report_sec_0394",
+          "section_path": "审计报告 > 十四、资产负债表日后事项 > 2.根据2026年4月17日董事会决议,董事会提议本公司以截至本财务报表批准",
+          "page": 345,
+          "unit_type": "heading",
+          "text": "2.根据2026年4月17日董事会决议,董事会提议本公司以截至本财务报表批准",
+          "bbox": [
+            90.50399780273438,
+            507.7779846191406,
+            503.2818603515625,
+            521.0619506835938
+          ],
+          "table_name": null,
+          "row_header": null,
+          "col_headers": null,
+          "values": null,
+          "unit": null,
+          "metadata": {}
+        },
+        {
+          "unit_id": "annual_cscec_2025_report_text_001314",
+          "doc_id": "annual_cscec_2025_report",
+          "section_id": "annual_cscec_2025_report_sec_0394",
+          "section_path": "审计报告 > 十四、资产负债表日后事项 > 2.根据2026年4月17日董事会决议,董事会提议本公司以截至本财务报表批准",
+          "page": 345,
+          "unit_type": "text_block",
+          "text": "报出日41,320,390,444股为基数,向全体普通股股东每10股派送2.718元（含\n税）现金股息,合计约112.31亿元,在实施权益分派的股权登记日前公司总\n股本发生变动的,拟维持每股分配比例不变,相应调整分配总额,并将另行\n公告具体调整情况。该股利分配预案尚待本公司股东会批准,故未在本财务\n报表中确认。",
+          "bbox": [
+            101.77999114990234,
+            523.2579345703125,
+            503.5000305175781,
+            598.8519897460938
+          ],
+          "table_name": null,
+          "row_header": null,
+          "col_headers": null,
+          "values": null,
+          "unit": null,
+          "metadata": {}
+        },
+        {
+          "unit_id": "annual_cscec_2025_report_field_001808",
+          "doc_id": "annual_cscec_2025_report",
+          "section_id": "annual_cscec_2025_report_sec_0394",
+          "section_path": "审计报告 > 十四、资产负债表日后事项 > 2.根据2026年4月17日董事会决议,董事会提议本公司以截至本财务报表批准",
+          "page": 345,
+          "unit_type": "financial_field",
+          "text": "发行金额；发行日 利率(%)；中国建筑一局(集团)有限公司；超短期融资券；2026年1月5日；1,500,000；1.53；中国建筑一局(集团)有限公司；超短期融资券；2026年1月5日",
+          "bbox": null,
+          "table_name": "董事会提议本公司以截至本财务报表",
+          "row_header": "发行规模",
+          "col_headers": null,
+          "values": null,
+          "unit": null,
+          "metadata": {
+            "source": "line_heuristic",
+            "line_index": 8,
+            "raw_metric": "发行金额",
+            "canonical_metric": "发行规模"
+          }
+        }
+      ]
+    }
+  ]
+}
